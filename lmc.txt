@@ -1,0 +1,9 @@
+INP
+STA input
+INP
+ADD input
+OUT
+SUB constant
+OUT
+input DAT
+constant DAT 3
